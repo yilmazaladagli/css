@@ -1,0 +1,28 @@
+.navigate{
+    text-align: center;
+}
+
+a{
+    text-decoration: none;
+}
+
+h1, h2{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+.products{
+    list-style-position: inside;
+    text-align: center;
+    list-style-type: none;
+    font-weight: bold;
+}
+
+.aletler{
+    list-style-position: inside;
+    text-align: center;
+    font-weight: bold;
+}
